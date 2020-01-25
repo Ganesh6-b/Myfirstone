@@ -1,0 +1,3 @@
+This is my first file
+
+In this, I will code mode algorithms
